@@ -1,0 +1,13 @@
+{
+  "quantidadeDiasCompetencia" : 31,
+  "competencia" : "2019-08-31T00:00:00-03:00",
+  "dataRescisao" : null,
+  "unidade" : "HORAS",
+  "tipoProcessamento" : "MENSAL",
+  "subTipoProcessamento" : "INTEGRAL",
+  "anoDecimoTerceiro" : 2019,
+  "consideraAvosPerdidos" : true,
+  "pagarDecimoTerceiroFerias" : false,
+  "pagarUmTercoIntegral" : false,
+  "replicaEventosCalculoFeriasParaCalculoMensal" : true
+}

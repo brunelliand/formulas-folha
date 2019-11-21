@@ -1,0 +1,12 @@
+[
+  {
+    "tipoProcessamento" : "MENSAL",
+    "empresa": "UNESC",
+    "inicioVigencia": "2019-01-01T00:00:00-03:00",
+    "terminoVigencia": "2019-12-01T00:00:00-03:00",
+    "baseInss": 1000,
+    "valorRetidoInss": 80,
+    "baseIrrf": 1000,
+    "valorRetidoIrrf": 0
+  }
+]

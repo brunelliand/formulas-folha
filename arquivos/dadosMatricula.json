@@ -1,0 +1,125 @@
+{
+  "matricula": {
+    "codigo": 999999,
+    "tipo": "FUNCIONARIO"
+  },
+  "servidor": {
+    "grauEscolaridade": "ENSINO_MEDIO",
+    "dataNascimento": "1950-01-01T00:00:00-03:00",
+    "estadoCivil": "SOLTEIRO",
+    "nome": "JOÃO DA SILVA SAURO",
+    "nacionalidade": "BRASIL",
+    "dataChegada": null,
+    "dependentes": 2,
+    "listaDependentes": [
+      {
+        "dataInicio": "2015-01-01T00:00:00-03:00",
+        "dataTermino": null,
+        "salarioFamilia": true,
+        "irrf": true,
+        "dataNascimento": "2015-01-01T00:00:00-03:00",
+        "estuda": false,
+        "dataInicioCurso": null,
+        "dataFinalCurso": null,
+        "pensao": true,
+        "aplicacaoDesconto": "PERCENTUAL",
+        "valorDesconto": null,
+        "percentualDesconto": 30
+      },
+      {
+        "dataInicio": "2012-01-01T00:00:00-03:00",
+        "dataTermino": null,
+        "salarioFamilia": true,
+        "irrf": true,
+        "dataNascimento": "2012-01-01T00:00:00-03:00",
+        "estuda": false,
+        "dataInicioCurso": null,
+        "dataFinalCurso": null,
+        "pensao": true,
+        "aplicacaoDesconto": "PERCENTUAL",
+        "valorDesconto": null,
+        "percentualDesconto": 30
+      }
+    ],
+    "sexo": "FEMININO",
+    "getDependenteSalarioFamilia": 2,
+    "dependentesIrrf": 2,
+    "possuiMolestiaGrave": true
+  },
+  "afastamentos": [
+    {
+      "inicio": "2019-08-01T01:00:00-03:00",
+      "fim": "2019-08-15T01:00:00-03:00",
+      "tipo": {
+        "classificacao": "SERVICO_MILITAR"
+      },
+      "quantidade": 90
+    }
+  ],
+  "funcionario": {
+    "origemRendimento": "CARGO",
+    "planoSalarialOrigemRendimento": "CARGO",
+    "ocorrenciaSefip": "EXPOSTO_APOSENTADORIA_25_ANOS",
+    "classeSalarial": "A-1",
+    "classeSalarialOrigemRendimento": null,
+    "mesContribuicaoSindical": "MAIO",
+    "sindicato": "SINDICATO DOS SERVIDORES PUBLICOS",
+    "tipoVinculo": "CELETISTA",
+    "categoriaSefipVinculo": "EMPREGADO",
+    "descricaoOrganograma": "ADMINISTRAÇÃO",
+    "codigoOrganograma": "010203",
+    "contaVaga": true,
+    "recebeDecimoTerceiro": true,
+    "diasDireitoFerias": 30,
+    "mesesAquisicaoFerias": 12,
+    "dataAdmissao": "2010-01-01T00:00:00.000Z",
+    "dataRescisao": null,
+    "dataBase": "2010-01-01T00:00:00.000Z",
+    "optanteFgts": true,
+    "dataOpcaoFgts": "2010-01-01T00:00:00.000Z",
+    "dataFimVinculo": null,
+    "salario": 5000.95,
+    "salarioComissionado": null,
+    "nivelSalarialCoeficiente": null,
+    "planoSalarial": "GERAL",
+    "responsabilidadePagamento": null,
+    "nivelSalarial": "NIVEL PROFESSORES III",
+    "nivelSalarialComissionado": null,
+    "vinculoEmpregaticio": "Celetistas",
+    "grupoFuncional": "GERAL",
+    "estatutario": false,
+    "previdencia": "CELETISTA",
+    "cargo": "PROFESSOR NIVEL MÉDIO",
+    "cargoComissionado": null,
+    "tipoAdmissao": "ADMISSAO",
+    "quantidadeHorasMes": 200.00,
+    "unidadePagamento": "MENSALISTA"
+  },
+  "pensionista": {
+    "valorBeneficio": 1500.00,
+    "unidadePagamento": "MENSALISTA",
+    "recebeDecimoTerceiro": true,
+    "dataCessacaoBeneficio" : null
+  },
+  "estagiario": {
+    "bolsaEstudos": 1500.00,
+    "unidadePagamento": "MENSALISTA"
+  },
+  "autonomo": {
+    "totalServicosAutonomo": 1500.00,
+    "unidadePagamento": "MENSALISTA"
+  },
+  "aposentado": {
+    "valorBeneficio": 1500.00,
+    "unidadePagamento": "MENSALISTA",
+    "recebeDecimoTerceiro": true,
+    "dataCessacaoAposentadoria" : null
+  },
+  "periodoConcessao": "",
+  "periodoAquisitivoDecimoTerceiro": null,
+  "evento": null,
+  "periodoAquisitivo": null,
+  "folhas": null,
+  "mediaVantagem": null,
+  "calculo": null
+}

@@ -1,0 +1,139 @@
+{
+  "salarioMinimo": 998.00,
+  "pisoSalario": 998.00,
+  "minimoIrrfDarf": 10,
+  "minimo": 0,
+  "deducaoPorDependente" : 189.59,
+  "maximo": 9999999,
+  "IRRF": [
+    {
+      "valor": 1903.9800,
+      "aliquota": 0,
+      "deducao": 0
+    },
+    {
+      "valor": 2826.6500,
+      "aliquota": 7.5,
+      "deducao": 142.8
+    },
+    {
+      "valor": 3751.05,
+      "aliquota": 15.00,
+      "deducao": 354.80
+    },
+    {
+      "valor": 4664.68,
+      "aliquota": 22.50,
+      "deducao": 636.13
+    },
+    {
+      "valor": 99999999,
+      "aliquota": 27.50,
+      "deducao": 869.36
+    }
+  ],
+  "INSS": [
+    {
+      "valor": 1751.81,
+      "aliquota": 8.0
+    },
+    {
+      "valor": 2919.72,
+      "aliquota": 9
+    },
+    {
+      "valor": 5839.45,
+      "aliquota": 11
+    }
+  ],
+  "previdenciaEstadual": [
+    {
+      "valor": 1751.81,
+      "aliquota": 8.0
+    },
+    {
+      "valor": 2919.72,
+      "aliquota": 9
+    },
+    {
+      "valor": 5839.45,
+      "aliquota": 11
+    }
+  ],
+  "fundoAssistencia": [
+    {
+      "valor": 1751.81,
+      "aliquota": 8.0
+    },
+    {
+      "valor": 2919.72,
+      "aliquota": 9
+    },
+    {
+      "valor": 5839.45,
+      "aliquota": 11
+    }
+  ] ,
+  "previdenciaPropria": [
+    {
+      "valor": 1751.81,
+      "aliquota": 8.0
+    },
+    {
+      "valor": 2919.72,
+      "aliquota": 9
+    },
+    {
+      "valor": 5839.45,
+      "aliquota": 11
+    }
+  ] ,
+  "salarioFamiliaCeletista": [
+    {
+      "valor": 907.77,
+      "aliquota": 46.54
+    },
+    {
+      "valor": 1364.43,
+      "aliquota": 32.8
+    }
+  ],
+  "salarioFamiliaEstatutario": [
+    {
+      "valor": 907.77,
+      "aliquota": 46.54
+    },
+    {
+      "valor": 1364.43,
+      "aliquota": 32.8
+    }
+  ],
+  "salarioFamiliaEspecial": [
+    {
+      "valor": 1751.81,
+      "aliquota": 8.0
+    },
+    {
+      "valor": 2919.72,
+      "aliquota": 9
+    },
+    {
+      "valor": 5839.45,
+      "aliquota": 11
+    }
+  ],
+  "salarioFamiliaAposentado": [
+    {
+      "valor": 1751.81,
+      "aliquota": 8.0
+    },
+    {
+      "valor": 2919.72,
+      "aliquota": 9
+    },
+    {
+      "valor": 5839.45,
+      "aliquota": 11
+    }
+  ]
+}

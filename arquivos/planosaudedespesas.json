@@ -1,0 +1,20 @@
+[
+  {
+    "tipo" : "MENSALIDADE",
+    "valor": 150,
+    "valorSubsidio" : 50,
+    "valorTotal" : 100
+  },
+  {
+    "tipo" : "ADESAO",
+    "valor": 150,
+    "valorSubsidio" : 50,
+    "valorTotal" : 100
+  },
+  {
+    "tipo" : "PROCEDIMENTOS",
+    "valor": 150,
+    "valorSubsidio" : 50,
+    "valorTotal" : 100
+  }
+]

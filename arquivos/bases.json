@@ -1,0 +1,26 @@
+[
+  {
+    "abreviacao": "INSS",
+    "valor": 3333.33
+  },
+  {
+    "abreviacao": "INSSFER",
+    "valor": 2222.23
+  },
+  {
+    "abreviacao": "INSS13",
+    "valor": 2999
+  },
+  {
+    "abreviacao": "IRRF13",
+    "valor": 9000
+  },
+  {
+    "abreviacao": "IRRFFERRESC",
+    "valor": 9000
+  },
+  {
+    "abreviacao": "PAGAPROP",
+    "valor": 200
+  }
+]

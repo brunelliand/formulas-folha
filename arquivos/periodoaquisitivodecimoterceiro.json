@@ -1,0 +1,16 @@
+{
+  "periodos": [
+    {
+      "dataInicial": "2019-01-01T00:00:00.000Z",
+      "anoExercicio": 2019,
+      "situacao": "EM_ANDAMENTO",
+      "dataFinal": "2019-12-31T00:00:00.000Z",
+      "movimentacoes": [],
+      "totalMovimentacoes": 0,
+      "avosAdquiridos": 12,
+      "avosAdquiridosFgts": 12,
+      "avosPerdidos": 0,
+      "avosDireito": 12
+    }
+  ]
+}

@@ -1,0 +1,56 @@
+{
+  "periodos": [
+    {
+      "pagouUmTercoIntegral": false,
+      "dataInicial": "2015-01-01T00:00:00-03:00",
+      "dataFinal": "2015-12-31T00:00:00-03:00",
+      "situacao": "ADQUIRIDO",
+      "saldo": 30,
+      "faltas": 0,
+      "faltasBrutas": 0,
+      "faltasEnquadradas": 0,
+      "diasAdquiridos": 30,
+      "valorCalculadoPagoMediaVantagem" : 300,
+      "valorCalculadoPago" : 1500,
+      "valorReferenciaPago" : 0,
+      "cancelados": 0,
+      "suspensos": 0,
+      "configuracaoFerias": {
+        "mesesParaAquisicao": 12,
+        "diasParaAdquirirNoPeriodo": 30,
+        "mesesParaConcessao": 12,
+        "diasAbono" : 10
+      }
+    },
+    {
+      "pagouUmTercoIntegral": false,
+      "dataInicial": "2016-01-01T00:00:00-03:00",
+      "dataFinal": "2016-12-31T00:00:00-03:00",
+      "situacao": "EM_ANDAMENTO",
+      "saldo": 25,
+      "faltas": 0,
+      "faltasBrutas": 0,
+      "faltasEnquadradas": 0,
+      "diasAdquiridos": 30,
+      "valorCalculadoPagoMediaVantagem" : 300,
+      "valorCalculadoPago" : 1500,
+      "valorReferenciaPago" : 0,
+      "cancelados": 0,
+      "suspensos": 0,
+      "configuracaoFerias": {
+        "mesesParaAquisicao": 12,
+        "diasParaAdquirirNoPeriodo": 30,
+        "mesesParaConcessao": 12,
+        "diasAbono" : 10
+      }
+    }
+  ],
+  "concessao": {
+    "dataPagamento": "2019-08-01T00:00:00-03:00",
+    "dataInicioGozo": "2019-08-01T00:00:00-03:00",
+    "dataFimGozo": "2019-08-30T00:00:00-03:00",
+    "diasAbono": 0,
+    "diasGozo": 30,
+    "diasFalta": 0
+  }
+}
